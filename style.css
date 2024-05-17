@@ -28,9 +28,8 @@ a{
     display: flex;
     column-gap: 20px;
 }
-.header-item {
-}
 .header-link {
     color: white;
     font-size: 20px;
+    border-radius: 20px;
 }
